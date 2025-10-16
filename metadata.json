@@ -1,0 +1,5 @@
+{
+  "name": "E-commerce KPI Dashboard",
+  "description": "A comprehensive dashboard to track and analyze key performance indicators for e-commerce sales, with support for multi-currency, product seasons, and detailed daily entries.",
+  "requestFramePermissions": []
+}
